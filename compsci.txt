@@ -2,6 +2,6 @@ i want to create a club where high school programmers can collaborate on sociall
 we would curate project requests accept those that would could help others in our community and have people contribute towards that
 
 the way the club would would be structured is that club members could propose projects and and other members could help world on the project. 
-and since, these club is focused on community impact, i was planning to talk to the counselors about offering volunteer hours for succssfully completed projects
+and since, these club is focused on community impact, i was planning to talk to the counselors about offering volunteer hoursdfsdfsdfsdfsdfsdfsdfs for succssfully completed projects
 
 github has a classroom feature that people sumbit code for specific projects and receive feedback
